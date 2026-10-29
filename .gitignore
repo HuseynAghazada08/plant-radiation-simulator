@@ -1,0 +1,14 @@
+# Java build output
+out/
+build/
+dist/
+*.class
+*.jar
+
+# Local IDE and operating system files
+.idea/
+.vscode/
+*.iml
+nbproject/private/
+.DS_Store
+Thumbs.db
